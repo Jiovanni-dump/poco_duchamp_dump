@@ -1,0 +1,14 @@
+# missi_phone_global_only64-user 14 UP1A.230905.011 V816.0.7.0.UNLMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: duchamp
+- flavor: missi_phone_global_only64-user
+- release: 14
+- id: UP1A.230905.011
+- incremental: V816.0.7.0.UNLMIXM
+- tags: release-keys
+- fingerprint: POCO/duchamp_global/duchamp:14/UP1A.230905.011/V816.0.7.0.UNLMIXM:user/release-keys
+- is_ab: true
+- brand: POCO
+- branch: missi_phone_global_only64-user-14-UP1A.230905.011-V816.0.7.0.UNLMIXM-release-keys
+- repo: poco_duchamp_dump
